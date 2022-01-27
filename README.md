@@ -1,4 +1,4 @@
-# Shopping-Cart-App
+# Shopping-Cart
 <div>
   <img src="ShoppingCart.png" width='800'/>
 </div>
