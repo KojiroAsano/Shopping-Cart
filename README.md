@@ -14,7 +14,7 @@
   
   
 ## Usage:
-**[Live app](https://kojiroasano.github.io/Recomment-Movies/)**
+Buy what you want, then the product will be in your cart, and the sum total is calcurated.
   
   
 ## Support:
